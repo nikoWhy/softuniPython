@@ -7,20 +7,20 @@ n = 10
 
 for i in range(0, 17):
     my_turtle.forward(n)
-    my_turtle.right(120)
+    my_turtle.left(120)
     n = n+ 10
 n=10
 my_turtle.left(120)
 for i in range(0, 18):
     my_turtle.forward(n)
-    my_turtle.right(120)
+    my_turtle.left(120)
     n = n+ 10
 
 n=10
 my_turtle.left(120)
 for i in range(0, 18):
     my_turtle.forward(n)
-    my_turtle.right(120)
+    my_turtle.left(120)
     n = n+ 10
 
         
